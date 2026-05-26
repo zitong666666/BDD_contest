@@ -6,7 +6,7 @@
 [![Vue.js](https://img.shields.io/badge/Vue.js-3.4-4FC08D.svg)](https://vuejs.org/)
 [![YOLOv5](https://img.shields.io/badge/YOLOv5-6.2-FFD700.svg)](https://github.com/ultralytics/yolov5)
 
-基于 YOLOv5 的城市道路自动驾驶行人车辆检测与计数系统，提供完整的 Web 界面进行模型训练、图像检测、视频检测和实时摄像头检测。
+基于 YOLOv5 的城市道路自动驾驶行人车辆检测与计数系统，内置yolov5模型，如果内置别的模型处理逻辑一致，随后将推进与yolov26等模型的训练。
 
 ## 项目简介
 
