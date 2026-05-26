@@ -1,0 +1,14 @@
+:root {
+  --bg: #f7f8fa;
+  --card-bg: #ffffff;
+  --text: #1f2328;
+  --muted: #6b7280;
+}
+
+html, body { background: var(--bg); color: var(--text); }
+
+.el-card { background: var(--card-bg) !important; }
+
+.section-title { font-weight: 600; margin-bottom: 8px; }
+
+
