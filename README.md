@@ -147,7 +147,7 @@ npm run dev
 
 本项目使用 BDD100K 数据集进行训练和评估。
 
-- **TrainA 数据集**: [百度网盘下载]( https://pan.baidu.com/s/17sLJV1Ru5ZiBV1pyFl1_EQ?pwd=cq8i 提取码:  [) (提取码: cq8i)
+- **TrainA 数据集**: [百度网盘下载]( https://pan.baidu.com/s/17sLJV1Ru5ZiBV1pyFl1_EQ?pwd=cq8i) (提取码: cq8i)
 - **TrainB 数据集**: [百度网盘下载]( https://pan.baidu.com/s/1C19R4ZjNnvkZ0CU8gMXkUg?pwd=sfqf 
   ) (提取码: sfqf)
 
